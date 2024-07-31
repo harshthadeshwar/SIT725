@@ -3,14 +3,25 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 6089ae278440ad570ae9bba09b1010a2586444fb
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "dependencies": {
     "express": "^4.19.2"
   },
   "description": ""
+=======
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+>>>>>>> 6089ae278440ad570ae9bba09b1010a2586444fb
 }
